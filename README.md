@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Ranjit Dey
-- 👀 I’m interested in DSA.
-- 🌱 I’m currently learning C language.
 
 
 <!---
